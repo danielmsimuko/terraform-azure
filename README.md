@@ -1,5 +1,9 @@
-"# terraform-azure" 
+# Learning Terraform with Azure
 
-Completed the terraform tutorial from  https://www.youtube.com/watch?v=V53AHWun17s&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=4
+Terraform is an infrastructure as code tool used to provision, build and change cloud infrastructure. It can manage network resources, storage and more. 
 
-Gave me a good understanding of what terraform is
+## Terraform Commands 
+
+These are the most popular terraform commands used to start, provision and script an entire lab. The education was gained via youtube resurce https://www.youtube.com/watch?v=V53AHWun17s&list=RDCMUC8butISFwT-Wl7EV0hUK0BQ&index=4
+
+
